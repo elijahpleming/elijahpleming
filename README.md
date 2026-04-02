@@ -5,35 +5,15 @@
 
 <h2>👨‍💻 IT Support & Cybersecurity Labs</h2>
 
-- <b>Windows & Help Desk Fundamentals</b>
-  - Active Directory User & Group Management Lab
-  - Password Resets, Account Lockouts, and Permissions Troubleshooting
-  - Windows Troubleshooting (Slow PC, Blue Screen, Software Issues)
-
-- <b>Networking Fundamentals</b>
-  - IP Addressing, DNS, and DHCP Configuration
-  - Network Traffic Analysis with Wireshark
-  - Home Network Setup & Troubleshooting
-
-- <b>Cybersecurity Fundamentals</b>
-  - SIEM Log Analysis (Failed Logins & Alerts)
-  - Vulnerability Scanning with Nessus
-  - Basic Incident Response & Security Event Documentation
-
-- <b>Linux & Command Line</b>
-  - Linux User & Permission Management
-  - Essential Bash Commands for IT Support
-
-- <b>PowerShell for IT Support</b>
-  - Automated Active Directory User Creation
-  - System Information & Disk Usage Automation
+- <b>Active Directory Lab</b>
 
 <h2>📘 Education & Learning</h2>
 
+- 🎓 **B.S. Exercise Science - University of South Carolina**
+
 - 🎓 **B.S. Cybersecurity & Information Assurance – Western Governors University (WGU)**
 - 📚 CompTIA A+ (In Progress)
-- 📚 Networking Fundamentals (TCP/IP, DNS, DHCP)
-- 📚 Security Fundamentals (Logs, SIEM, Vulnerabilities)
+
 
 <h2>🎯 Career Focus</h2>
 
