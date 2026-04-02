@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elijah! <br/>
-<a href="https://github.com/elijahpleming">, 
+<a href="https://github.com/elijahpleming">
 <a href="https://www.linkedin.com/in/elijah-pleming-573469349">Cybersecurity Student (WGU)</a>
 </h1>
 
