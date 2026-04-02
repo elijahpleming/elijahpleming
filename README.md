@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 IT Support & Cybersecurity Labs</h2>
 
-- <b>Active Directory Lab</b>
+- <b>Active Directory Lab</b> [Active Directory Basics](https://github.com/elijahpleming/TryHackMe-Active-Directory-Basics)
 
 <h2>📘 Education & Learning</h2>
 
