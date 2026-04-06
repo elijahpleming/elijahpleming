@@ -11,7 +11,7 @@
 
 - 🎓 **B.S. Exercise Science - University of South Carolina**
 
-- 🎓 **B.S. Cybersecurity & Information Assurance – Western Governors University (WGU)**
+- 🎓 **B.S. Cybersecurity & Information Assurance – Western Governors University (In Progress)**
 - 📚 CompTIA A+ (In Progress)
 
 
