@@ -6,7 +6,7 @@
 <h2>👨‍💻 IT Support & Cybersecurity Labs</h2>
 
 - <b>Active Directory Lab</b> - [Active Directory Basics](https://github.com/elijahpleming/TryHackMe-Active-Directory-Basics)
-
+- <b>Spiceworks Ticketing Lab</b> - [Spiceworks Ticketing System](https://github.com/elijahpleming/Spiceworks-Ticketing-System-Lab)
 <h2>📘 Education & Learning</h2>
 
 - 🎓 **B.S. Exercise Science - University of South Carolina**
